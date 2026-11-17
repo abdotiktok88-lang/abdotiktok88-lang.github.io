@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.abdotiktok88_lang.twa",
+        "sha256_cert_fingerprints": ["03:66:25:8C:64:6C:1F:8A:5C:61:F2:7E:8A:26:01:05:EF:DE:94:07:F0:7D:39:40:5B:F0:04:E0:25:73:59:48"]
+      }
+    }]
